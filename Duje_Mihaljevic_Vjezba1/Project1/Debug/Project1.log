@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\student\source\repos\duje_mihaljevic_vjezba1\project1\source.cpp(1): fatal error C1021: invalid preprocessor command 'Include'
+  Zadatak2.cpp
+  Zadatak3.cpp
+  Zadatak4.cpp
+  Generating Code...
